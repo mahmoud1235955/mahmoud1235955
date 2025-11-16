@@ -1,9 +1,23 @@
-# 👋 Hi, I'm Mahmoud Ashour
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/mahmoud1235955?s=200" alt="Mahmoud Ashour" width="120" style="border-radius:50%;" />
+</p>
 
-**Flutter Developer | Electronics & Communications Engineer | Embedded Systems Enthusiast**
+<h1 align="center">Hi, I'm Mahmoud Ashour 👋</h1>
+<p align="center">
+  <strong>Flutter Developer | Electronics & Communications Engineer | Embedded Systems Enthusiast</strong>
+</p>
 
-I'm a Communications and Electronics Engineering student passionate about building real-world applications.  
-I work mainly with **Flutter & Dart**, and have a strong interest in embedded systems, digital electronics, and automation.
+<p align="center">
+  <a href="https://github.com/mahmoud1235955" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mahmoud1235955?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/mahmoud-h-ashour" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ashour-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mahmoud11asd@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mahmoud11asd@gmail.com-red?style=flat&logo=gmail" />
+  </a>
+</p>
 
 ---
 
