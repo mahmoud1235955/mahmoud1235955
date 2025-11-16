@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/mahmoud1235955?s=200" alt="Mahmoud Ashour" width="120" style="border-radius:50%;" />
-</p>
 
 <h1 align="center">Hi, I'm Mahmoud Ashour 👋</h1>
 <p align="center">
